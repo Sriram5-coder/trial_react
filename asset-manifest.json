@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45ea2e00.css",
+    "main.js": "/static/js/main.8473a276.js",
+    "static/js/129.5b6bc848.chunk.js": "/static/js/129.5b6bc848.chunk.js",
+    "static/js/787.06d3b66a.chunk.js": "/static/js/787.06d3b66a.chunk.js",
+    "static/media/h3.jpg": "/static/media/h3.6334020fe52ed8853e7a.jpg",
+    "static/media/sriram.jpeg": "/static/media/sriram.7d88d99c284f7b587ece.jpeg",
+    "static/media/h2.jpg": "/static/media/h2.2860ff5b4495c7b14da8.jpg",
+    "static/media/order.png": "/static/media/order.7fbb0ebeb741e384e0fb.png",
+    "static/media/h1.jpg": "/static/media/h1.3806e65dcdf75aa402de.jpg",
+    "static/media/chinese.jpg": "/static/media/chinese.e86b58cf998f031ec7be.jpg",
+    "static/media/southindian.jpg": "/static/media/southindian.3e32e6eda990fff37170.jpg",
+    "static/media/mexican.jpeg": "/static/media/mexican.a09a31e3cc6da24749a5.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.45ea2e00.css.map": "/static/css/main.45ea2e00.css.map",
+    "main.8473a276.js.map": "/static/js/main.8473a276.js.map",
+    "129.5b6bc848.chunk.js.map": "/static/js/129.5b6bc848.chunk.js.map",
+    "787.06d3b66a.chunk.js.map": "/static/js/787.06d3b66a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ea2e00.css",
+    "static/js/main.8473a276.js"
+  ]
+}
